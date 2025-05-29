@@ -25,7 +25,7 @@ else:
         print('''you win \ns
               "!..."Thanks for play"...!" ''' )
     elif(""):
-        print("something went wrong....!")
+        print("something went wrong...!")
  
 
  
